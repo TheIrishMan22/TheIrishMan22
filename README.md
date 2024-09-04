@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheIrishMan22
+- 👀 I’m interested in coding and modifiing things the way they aren't supposed to.
+- 🌱 I’m currently learning coding.
